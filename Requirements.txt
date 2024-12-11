@@ -2,3 +2,8 @@ matplotlib
 shiny
 numpy
 pandas
+faicons
+pathlib
+plotly
+shinywidgets
+cufflinks

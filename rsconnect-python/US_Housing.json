@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "C:\\Users\\HomePC\\US_Housing",
+        "app_url": "https://yvesm.shinyapps.io/us_housing/",
+        "app_id": 13578503,
+        "app_guid": null,
+        "title": "us_housing",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
